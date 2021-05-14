@@ -1,0 +1,173 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'pt' Physical Memory: 12159 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+F:\Unity Hub\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/faculdade/jogo/Jogo matemático/jogo-matematico
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54179
+Successfully changed project path to: F:/faculdade/jogo/Jogo matemático/jogo-matematico
+F:/faculdade/jogo/Jogo matemático/jogo-matematico
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path F:/Unity Hub/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/faculdade/jogo/Jogo matemático/jogo-matematico/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6109
+Initialize mono
+Mono path[0] = 'F:/Unity Hub/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity Hub/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'F:/Unity Hub/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56528
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity Hub/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001347 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.574 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.136 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1964 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.6 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2411.
+Total: 2.611200 ms (FindLiveObjects: 0.401200 ms CreateObjectMapping: 0.231600 ms MarkObjects: 1.904400 ms  DeleteObjects: 0.072400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/sprites/Personagem/Run_up.png
+  artifactKey: Guid(7e2a37855692ca5429d4bb3247c4e641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/Personagem/Run_up.png using Guid(7e2a37855692ca5429d4bb3247c4e641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8914793021a7212315a21e9107b8b2fe') in 0.293674 seconds
+  Import took 0.297657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/sprites/Personagem/Run_left.png
+  artifactKey: Guid(ec2345a48eba95f48b07d123b12252b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/Personagem/Run_left.png using Guid(ec2345a48eba95f48b07d123b12252b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af19e7a90df9a378b035c97dca9c2684') in 0.030902 seconds
+  Import took 0.035301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/sprites/Personagem
+  artifactKey: Guid(79c8c4c2e9c4e77489048de404aca76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/Personagem using Guid(79c8c4c2e9c4e77489048de404aca76c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79c208ce2a2b11e31acf07baa97c422') in 0.012889 seconds
+  Import took 0.018235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/sprites/Personagem/Run_rigth.png
+  artifactKey: Guid(a74515a5ea2f47b498c8f38595c69b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/Personagem/Run_rigth.png using Guid(a74515a5ea2f47b498c8f38595c69b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84193bd67d86dd8f4df3f0a914592f1') in 0.029712 seconds
+  Import took 0.034478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/sprites/Personagem/Run_down.png
+  artifactKey: Guid(cca22b01a4412ad4cb56efd282e45574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/Personagem/Run_down.png using Guid(cca22b01a4412ad4cb56efd282e45574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cbdeade34e31ec275edf8bb4c4fedd2') in 0.034895 seconds
+  Import took 0.040492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.804078 seconds.
+  path: Assets/script/NewBehaviourScript.cs
+  artifactKey: Guid(6e62c84f1e823f144abf0e5aee3fc627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/script/NewBehaviourScript.cs using Guid(6e62c84f1e823f144abf0e5aee3fc627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4900f11750b175cb34c2c53fb301503') in 0.023028 seconds
+  Import took 0.027363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018105 seconds.
+  path: Assets/script/NewBehaviourScript.cs
+  artifactKey: Guid(6e62c84f1e823f144abf0e5aee3fc627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/script/NewBehaviourScript.cs using Guid(6e62c84f1e823f144abf0e5aee3fc627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4900f11750b175cb34c2c53fb301503') in 0.006217 seconds
+  Import took 0.013219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.524303 seconds.
+  path: Assets/script/altarOperacional.cs
+  artifactKey: Guid(ac0e9b205b599534187247519e03bed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/script/altarOperacional.cs using Guid(ac0e9b205b599534187247519e03bed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfa40113102659aa9a48cb5ac10cc2f8') in 0.012773 seconds
+  Import took 0.018543 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006285 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.197 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1951 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2429.
+Total: 2.614800 ms (FindLiveObjects: 0.349300 ms CreateObjectMapping: 0.136500 ms MarkObjects: 2.103300 ms  DeleteObjects: 0.024000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001205 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.162 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1951 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 93.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2432.
+Total: 2.072900 ms (FindLiveObjects: 0.191100 ms CreateObjectMapping: 0.106100 ms MarkObjects: 1.756100 ms  DeleteObjects: 0.018500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

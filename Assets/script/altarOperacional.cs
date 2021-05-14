@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
 public class altarOperacional : MonoBehaviour
 {
 
@@ -20,3 +21,5 @@ public class altarOperacional : MonoBehaviour
         Debug.log ("Saiu")
     }
 }
+
+*/
