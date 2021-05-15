@@ -64,6 +64,7 @@
     <Compile Include="Assets\script\NewBehaviourScript.cs" />
     <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\LayerTrigger.cs" />
     <Compile Include="Assets\Cainos\Pixel Art Top Down - Basic\Script\CameraFollow.cs" />
+    <Compile Include="Assets\script\PucharEmpurrarJogador.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Cainos\Pixel Art Top Down - Basic\Changelog.txt" />

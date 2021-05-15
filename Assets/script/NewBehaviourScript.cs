@@ -21,7 +21,7 @@ public class NewBehaviourScript : MonoBehaviour
         anim.SetFloat("Vertical", movement.y);
         anim.SetFloat("speed", movement.magnitude);
 
-        //transform.position = transform.position + movement * speed * Time.deltaTime; 
+       // transform.position = transform.position + movement * speed * Time.deltaTime; 
 
         rb.velocity = new Vector2(movement.x, movement.y) * speed;
 
